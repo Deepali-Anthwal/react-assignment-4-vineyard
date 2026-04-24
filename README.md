@@ -26,7 +26,5 @@ The application architecture prioritizes efficiency and real-time responsiveness
    - Open your terminal or command prompt inside the project folder.
 3. **Install Dependencies:**
    npm install
-4. **Start the Developtment Server:**
-   npm run dev
-5. **View in Browser:**
-   Open "http://localhost:5173" in your web browser.
+4. **Start Project:**
+   npm start
